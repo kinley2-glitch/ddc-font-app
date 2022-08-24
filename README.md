@@ -27,7 +27,7 @@ There was library dependency issues in our side, so the solution was to edit the
 
 `cd [folder_name]`
 
-`git clone https://github.com/ngawang88/DDC-Font-App.git`
+'git clone https://github.com/kinley2-glitch/ddc-font-app.git'
 
 `cd [repository_name]`
 
