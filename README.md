@@ -1,4 +1,4 @@
-# DDC Font App
+# DDC Font App for iOS
 
 This is the project code for DDC Font app. Do check out locally and update or refector the code with suitable message.
 
